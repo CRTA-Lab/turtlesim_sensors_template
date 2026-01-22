@@ -2,7 +2,7 @@
 
 ## Additionals
 
-Commands that may need to be run
+Commands that may need to be run for _plotjuggler_ (vizualization of data) and _robot_localization_ (for sensor fusion)
 ```bash
 sudo apt update
 ```
