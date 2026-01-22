@@ -6,13 +6,13 @@ import os
 def generate_launch_description():
 
     turtlesim_params_1 = os.path.join(
-        get_package_share_directory("turtlesim_sensors"),
+        get_package_share_directory("turtlesim_sensors_template"),
         "config",
         "ekf_odom_base.yaml"
     )
     
     turtlesim_params_2 = os.path.join(
-        get_package_share_directory("turtlesim_sensors"),
+        get_package_share_directory("turtlesim_sensors_template"),
         "config",
         "ekf_map_odom.yaml"
     )
