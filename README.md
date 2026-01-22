@@ -13,6 +13,18 @@ sudo apt install ros-$ROS_DISTRO-plotjuggler-ros
 ```bash
 sudo apt-get install ros-$ROS_DISTRO-robot-localization
 ```
+## Sensor fusion
+1. Example, creating a workspace named _das_sensor_fusion_:
 
+    ```bash
+    mkdir -p ~/das_sensor_fusion/src
+    cd ~/das_sensor_fusion/src
+    ```
+
+Make sure you are inside **das_sensor_fusion/src** folder (generally in **src** folder of your workspace).
+    ```bash
+    cd ~/astro_ws/src
+    git clone -b humble https://github.com/CRTA-Lab/ASTRO.git
+    ```
 
 
