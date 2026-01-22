@@ -27,7 +27,9 @@ cd ~/das_sensor_fusion/src
 git clone https://github.com/CRTA-Lab/turtlesim_sensors_template.git
 ```
 ## _robot_localization_ links:
-[robot_localization](https://docs.ros.org/en/noetic/api/robot_localization/html/index.html)
+[robot_localization - Docs](https://docs.ros.org/en/noetic/api/robot_localization/html/index.html)
+[robot_localization - Paper]([https://docs.ros.org/en/noetic/api/robot_localization/html/index.html](https://docs.ros.org/en/lunar/api/robot_localization/html/_downloads/robot_localization_ias13_revised.pdf))
+
 
 
 
