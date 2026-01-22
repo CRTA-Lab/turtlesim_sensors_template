@@ -11,7 +11,7 @@ sudo apt update
 sudo apt install ros-$ROS_DISTRO-plotjuggler-ros
 ```
 ```bash
-sudo apt-get install ros-$ROS_DISTRO-robot_localization
+sudo apt-get install ros-$ROS_DISTRO-robot-localization
 ```
 
 
