@@ -23,8 +23,8 @@ cd ~/das_sensor_fusion/src
 
 Make sure you are inside **das_sensor_fusion/src** folder.
 ```bash
-cd ~/astro_ws/src
-git clone -b humble https://github.com/CRTA-Lab/ASTRO.git
+cd ~/das_sensor_fusion/src
+git clone https://github.com/CRTA-Lab/turtlesim_sensors_template.git
 ```
 
 
